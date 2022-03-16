@@ -1,5 +1,5 @@
 {
-  "description": "Project configuration file",
+  "description": "项目配置文件",
   "packOptions": {
     "ignore": []
   },
@@ -44,7 +44,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.23.0",
   "appid": "wx32cb25eab9b40870",
-  "projectname": "mqtt-client-wechat-miniprogram",
+  "projectname": "emqxOfficalEXample",
   "debugOptions": {
     "hidedInDevtools": []
   },
@@ -54,8 +54,6 @@
     "servePath": ""
   },
   "isGameTourist": false,
-  "simulatorType": "wechat",
-  "simulatorPluginLibVersion": {},
   "condition": {
     "search": {
       "list": []

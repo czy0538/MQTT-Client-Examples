@@ -4,7 +4,7 @@ Page({
   data: {
     btnText: '连接',
     client: null,
-    host: 'broker.emqx.io:8084',
+    host: 'czy0538.work/mqtt',
     topic: 'testtopic/miniprogram',
     msg: 'Hello! I am from WeChat miniprogram',
     mqttOptions: {
